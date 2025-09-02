@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <KeyBindingCategoryDef>
+    <defName>DB_DesignatorBinds</defName>
+    <label>Designator Binds</label>
+    <checkForConflicts>true</checkForConflicts>
+  </KeyBindingCategoryDef>
+</Defs>
